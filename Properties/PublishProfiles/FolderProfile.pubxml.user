@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Raul Martinez\source\repos\LinkOracle\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-08-27T21:07:55.8682811Z;True|2021-08-21T16:24:30.9009521-05:00;True|2021-08-21T16:12:46.6887194-05:00;True|2021-08-06T19:30:58.2241576-05:00;True|2021-08-06T19:04:20.3917207-05:00;False|2021-08-06T19:04:03.3507856-05:00;True|2021-08-06T19:00:07.0018915-05:00;True|2021-08-06T12:20:54.4868483-05:00;True|2021-08-05T11:00:40.6285418-05:00;True|2021-08-03T17:58:11.8407571-05:00;True|2021-08-03T17:28:39.8490363-05:00;True|2021-08-03T14:57:54.0497415-05:00;True|2021-08-03T12:31:57.0655874-05:00;True|2021-07-21T12:18:37.5839644-05:00;</History>
+  </PropertyGroup>
+</Project>
